@@ -1,22 +1,23 @@
 body {
-    background-color: rgb(205, 235, 255);
+    background-color: #d6e1f0;
     font-size: .5em;
     font-family: 'Segoe UI', sans-serif;
-    
-    
+
+
 }
 
 
 .parent {
     position: relative;
-    background-color: white;
+    background-color: #ffffff;
     border-radius: 3%;
     width: 175px;
     height: 269px;
-    margin: 25% auto;
+    margin: 10% auto;
     
-    
-    
+
+
+
 
 
 }
@@ -26,7 +27,7 @@ body {
 
 
 
-.container { 
+.container {
     position: relative;
     display: flex;
     height: 90%;
@@ -36,17 +37,25 @@ body {
     text-align: center;
     padding-top: .7rem;
     justify-content: center;
-    
-    
 
-    
-   
-    
+
+
+
+
+
 }
 
 .qr {
     border-radius: 10%;
     height: 100%;
     width: 100%;
-    
+
+}
+
+.header {
+    color: #636b81;
+}
+
+.p {
+    color: #c2c4c7;
 }
