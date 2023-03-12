@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(205, 235, 255);
+    font-size: .5em;
+    font-family: 'Segoe UI', sans-serif;
+    
+    
+}
+
+
+.parent {
+    position: relative;
+    background-color: white;
+    border-radius: 3%;
+    width: 175px;
+    height: 269px;
+    margin: 25% auto;
+    
+    
+    
+
+
+}
+
+
+
+
+
+
+.container { 
+    position: relative;
+    display: flex;
+    height: 90%;
+    width: 90%;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: .7rem;
+    justify-content: center;
+    
+    
+
+    
+   
+    
+}
+
+.qr {
+    border-radius: 10%;
+    height: 100%;
+    width: 100%;
+    
+}
